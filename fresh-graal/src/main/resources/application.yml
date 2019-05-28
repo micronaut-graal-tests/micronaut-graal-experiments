@@ -1,3 +1,7 @@
 micronaut:
     application:
         name: fresh-graal
+    io:
+      watch:
+        enabled: true
+        paths: src/main    

@@ -1,0 +1,5 @@
+profile: kafka
+defaultPackage: kaftest
+---
+testFramework: junit
+sourceLanguage: java
